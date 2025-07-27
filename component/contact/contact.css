@@ -1,0 +1,12 @@
+.myBtn-contact{
+    background-color: #1abc9c;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+.content-contact{
+    padding-top: 50px;
+}
+.content-contact h4{
+color: #2c3e50;
+}

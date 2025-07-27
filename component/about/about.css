@@ -1,0 +1,19 @@
+.about-content {
+  background-color: #1abc9c;
+  padding: 80px 0;
+  width: 100vw;         /* يغطي الشاشة بالكامل بالعرض */
+  margin-left: calc(-50vw + 50%);
+  position: relative;
+  overflow-x: hidden;
+}
+
+
+.about-content h2 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.about-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
